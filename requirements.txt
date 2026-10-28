@@ -1,0 +1,6 @@
+reportlab
+pyhanko
+tkcalendar
+cryptography
+google-api-python-client
+google-auth-oauthlib

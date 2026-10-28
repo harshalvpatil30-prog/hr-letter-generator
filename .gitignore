@@ -1,0 +1,12 @@
+venv/
+build/
+dist/
+output/
+__pycache__/
+*.spec
+token.json
+credentials.json
+counter.json
+*.p12
+*.zip
+HR_Letter_Generator_Submission/
